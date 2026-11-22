@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+/* *{
+  @apply text-white bg-gray-500
+} */
